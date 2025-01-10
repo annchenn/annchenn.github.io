@@ -26,7 +26,11 @@
     <loc>http://localhost:1313/posts/</loc>
     <lastmod>2025-01-09T22:10:16+01:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/archives/</loc>
+  </url><url>
     <loc>http://localhost:1313/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/search/</loc>
   </url><url>
     <loc>http://localhost:1313/series/</loc>
   </url><url>

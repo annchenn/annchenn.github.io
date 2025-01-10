@@ -154,7 +154,7 @@ url = "tags"
 [params.homeInfoParams]
 Title = "Ann's Blog 🐹"
 Content = """
-👋 hihihi
+Hi! My name is Ann, I am a CS student at National Yang Ming Chiao Tung University.
 """
 
 [[params.socialIcons]]
@@ -196,3 +196,4 @@ disableInlineCSS = true
 
 [services.twitter]
 disableInlineCSS = true
+

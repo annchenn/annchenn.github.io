@@ -4,7 +4,8 @@ title = "annchen"
 theme = 'PaperMod'
 
 copyright = "© [PaperMod Contributors](https://github.com/adityatelange/hugo-PaperMod/graphs/contributors)"
-paginate = 5
+[pagination]
+pagerSize = 5
 
 enableInlineShortcodes = true
 enableRobotsTXT = true
@@ -28,6 +29,11 @@ tag = "tags"
 series = "series"
 
 [[languages.en.menu.main]]
+name = "Home"
+url = "/"
+wight = 10
+
+[[languages.en.menu.main]]
 name = "Archive"
 url = "archives"
 weight = 5
@@ -42,93 +48,17 @@ name = "Tags"
 url = "tags/"
 weight = 10
 
-[[languages.en.menu.main]]
-name = "WiKi"
-url = "https://github.com/adityatelange/hugo-PaperMod/wiki/"
-
-[languages.fr]
-languageName = ":fr:"
-weight = 2
-title = "PaperModL2"
-
-[languages.fr.taxonomies]
-category = "FRcategories"
-tag = "FRtags"
-series = "FRseries"
-
-[[languages.fr.menu.main]]
-name = "Archive"
-url = "archives/"
-weight = 5
-
-[[languages.fr.menu.main]]
-name = "FRTags"
-url = "frtags"
-weight = 10
-
-[[languages.fr.menu.main]]
-name = "FRCategories"
-url = "frcategories"
-weight = 10
-
-[[languages.fr.menu.main]]
-name = "FRSeries"
-url = "frseries"
-weight = 10
-
-[[languages.fr.menu.main]]
-name = "NullLink"
-url = "#"
-
-[languages.fr.params]
-languageAltTitle = "French"
-
-[languages.fr.params.profileMode]
-enabled = true
-title = "PaperMod"
-imageUrl = "https://raw.githubusercontent.com/googlefonts/noto-emoji/master/svg/emoji_u1f9d1_1f3fb_200d_1f4bb.svg"
-imageTitle = "ProfileMode image"
-subtitle = "☄️ Fast | ☁️ Fluent | 🌙 Smooth | 📱 Responsive"
-
-[[languages.fr.params.profileMode.buttons]]
-name = "Blog"
-url = "posts"
-
-[[languages.fr.params.profileMode.buttons]]
-name = "Profile Mode"
-url = "https://github.com/adityatelange/hugo-PaperMod/wiki/Features#profile-mode"
-
-[languages.fa]
-languagedirection = "rtl"
-weight = 3
-title = "PaperMod RTL"
-
-[languages.fa.taxonomies]
-category = "FAcategories"
-tag = "FAtags"
-series = "FAseries"
-
-[[languages.fa.menu.main]]
-name = "FATags"
-url = "fatags"
-weight = 10
-
-[languages.fa.params.homeInfoParams]
-Title = "Hi there 👋"
-Content = "Welcome to RTL layout"
-
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 
 [params]
 env = "production"
-description = "Theme PaperMod - https://github.com/adityatelange/hugo-PaperMod"
-author = "Theme PaperMod"
-defaultTheme = "auto"
+author = "Ann Chen"
+defaultTheme = "light"
 ShowShareButtons = true
 ShowReadingTime = true
 displayFullLangName = true
-ShowPostNavLinks = true
+ShowPostNavLinks = false
 ShowBreadCrumbs = true
 ShowCodeCopyButtons = true
 ShowRssButtonInSectionTermList = true
@@ -139,7 +69,7 @@ images = ["images/papermod-cover.png"]
 
 [params.profileMode]
 enabled = false
-title = "PaperMod"
+title = "Ann Chen"
 imageUrl = "#"
 imageTitle = "my image"
 
@@ -154,7 +84,7 @@ url = "tags"
 [params.homeInfoParams]
 Title = "Ann's Blog 🐹"
 Content = """
-Hi! My name is Ann, I am a CS student at National Yang Ming Chiao Tung University.
+Hi! My name is Ann, a CS student at National Yang Ming Chiao Tung University.
 """
 
 [[params.socialIcons]]
@@ -163,24 +93,19 @@ title = "View Source on Github"
 url = "https://github.com/annchenn"
 
 [[params.socialIcons]]
+name = "linkedin"
+title = "My Linkedin"
+url = "https://www.linkedin.com/in/ann-chen-039b61345/"
+
+[[params.socialIcons]]
 name = "Instagram"
-title = "Follow my instagram!"
 url = "https://www.instagram.com/annnchen__/"
 
-[[params.socialIcons]]
-name = "X"
-title = "Share PaperMod on X/Twitter"
-url = "https://x.com/intent/tweet/?text=Checkout%20Hugo%20PaperMod%20%E2%9C%A8%0AA%20fast,%20clean,%20responsive%20Hugo%20theme.&url=https://github.com/adityatelange/hugo-PaperMod&hashtags=Hugo,PaperMod"
 
 [[params.socialIcons]]
-name = "KoFi"
-title = "Buy me a Ko-Fi :)"
-url = "https://ko-fi.com/adityatelange"
+name = "Facebook"
+url = "https://www.facebook.com/profile.php?id=100043407064926"
 
-[params.editPost]
-URL = "https://github.com/adityatelange/hugo-PaperMod/tree/exampleSite/content"
-Text = "Suggest Changes"
-appendFilePath = true
 
 [params.assets]
 disableHLJS = true
@@ -192,8 +117,8 @@ unsafe = true
 noClasses = false
 
 [services.instagram]
-disableInlineCSS = true
+disableInlineCSS = false
 
 [services.twitter]
-disableInlineCSS = true
+disableInlineCSS = false
 

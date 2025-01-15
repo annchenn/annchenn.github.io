@@ -66,6 +66,8 @@ ShowAllPagesInArchive = true
 ShowPageNums = true
 ShowToc = true
 images = ["images/papermod-cover.png"]
+hideSummary = true
+
 
 [params.profileMode]
 enabled = false

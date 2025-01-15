@@ -15,20 +15,18 @@
     <lastBuildDate>Fri, 10 Jan 2025 17:33:49 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>嗨</title>
+      <title>112上修課紀錄</title>
       <link>http://localhost:1313/posts/post1/</link>
       <pubDate>Fri, 10 Jan 2025 17:33:49 +0100</pubDate>
       <guid>http://localhost:1313/posts/post1/</guid>
-      <description></description>
+      <description>&lt;h4 id=&#34;線性代數&#34;&gt;線性代數&lt;/h4&gt;</description>
     </item>
     <item>
       <title>My first post</title>
       <link>http://localhost:1313/posts/example/</link>
       <pubDate>Thu, 09 Jan 2025 22:10:16 +0100</pubDate>
       <guid>http://localhost:1313/posts/example/</guid>
-      <description>&lt;p&gt;hi&lt;/p&gt;
-&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;blabla
-&lt;/code&gt;&lt;/pre&gt;</description>
+      <description></description>
     </item>
   </channel>
 </rss>

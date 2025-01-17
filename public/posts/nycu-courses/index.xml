@@ -12,8 +12,124 @@
     <generator>Hugo -- 0.140.2</generator>
     <language>en</language>
     <copyright>PaperMod Contributors</copyright>
-    <lastBuildDate>Thu, 16 Jan 2025 16:05:14 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jan 2025 16:05:37 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/nycu-courses/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>113上（大二上）修課心得</title>
+      <link>http://localhost:1313/posts/nycu-courses/%E5%A4%A7%E4%BA%8C%E4%B8%8A/</link>
+      <pubDate>Thu, 16 Jan 2025 16:05:37 +0100</pubDate>
+      <guid>http://localhost:1313/posts/nycu-courses/%E5%A4%A7%E4%BA%8C%E4%B8%8A/</guid>
+      <description>&lt;h2 id=&#34;必修&#34;&gt;必修&lt;/h2&gt;
+&lt;h3 id=&#34;演算法&#34;&gt;演算法&lt;/h3&gt;
+&lt;p&gt;授課教師：高孟駿&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: right&#34;&gt;HW 1&lt;/th&gt;
+          &lt;th style=&#34;text-align: right&#34;&gt;HW 2&lt;/th&gt;
+          &lt;th style=&#34;text-align: right&#34;&gt;HW 3&lt;/th&gt;
+          &lt;th style=&#34;text-align: right&#34;&gt;HW4&lt;/th&gt;
+          &lt;th style=&#34;text-align: right&#34;&gt;ProgHW-1&lt;/th&gt;
+          &lt;th style=&#34;text-align: right&#34;&gt;ProgHW-2&lt;/th&gt;
+          &lt;th style=&#34;text-align: right&#34;&gt;ProgHW-3&lt;/th&gt;
+          &lt;th style=&#34;text-align: right&#34;&gt;ProgHW-4&lt;/th&gt;
+          &lt;th style=&#34;text-align: right&#34;&gt;Midterm&lt;/th&gt;
+          &lt;th style=&#34;text-align: right&#34;&gt;Final&lt;/th&gt;
+          &lt;th style=&#34;text-align: right&#34;&gt;原始成績&lt;/th&gt;
+          &lt;th style=&#34;text-align: right&#34;&gt;最終成績&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;100&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;94&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;93&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;97&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;100&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;100&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;101&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;105&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;83&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;72&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;100&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;A+&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;演算法總共有四次homework+期中期末考，每次hw都有手寫＋程式題，期中期末考都是手寫考＋上機考＋一兩題手寫bonus。我覺得這堂課教了很多東西和新觀念，感覺高孟駿補充蠻多東西ㄉ，有時候都覺得頭腦塞不下。&lt;br&gt;
+他是一個很用心的老師（雖然我常常聽不懂他上課），認真學可以學到很多。最後成績也調蠻多的，要拿高分沒有很難，最喜歡成績壓力不大的課了 嗚呼。
+&lt;br&gt;
+&lt;br&gt;&lt;/p&gt;
+&lt;h3 id=&#34;機率&#34;&gt;機率&lt;/h3&gt;
+&lt;p&gt;授課教師：謝秉鈞&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: right&#34;&gt;HW1&lt;/th&gt;
+          &lt;th style=&#34;text-align: right&#34;&gt;HW 2&lt;/th&gt;
+          &lt;th style=&#34;text-align: right&#34;&gt;Midterm&lt;/th&gt;
+          &lt;th style=&#34;text-align: right&#34;&gt;HW3&lt;/th&gt;
+          &lt;th style=&#34;text-align: right&#34;&gt;HW 4&lt;/th&gt;
+          &lt;th style=&#34;text-align: right&#34;&gt;Homework Bonus&lt;/th&gt;
+          &lt;th style=&#34;text-align: right&#34;&gt;Final&lt;/th&gt;
+          &lt;th style=&#34;text-align: right&#34;&gt;原始成績&lt;/th&gt;
+          &lt;th style=&#34;text-align: right&#34;&gt;調分後成績&lt;/th&gt;
+          &lt;th style=&#34;text-align: right&#34;&gt;最終成績&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;96.8&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;100&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;74&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;100&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;95.7&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;24.4&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;75&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;87.9&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;89.9&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;A+&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;總共有四次hw＋期中期末，每次hw都要寫蠻久的，期中期末可以帶大抄，題目超多寫滿三小時把你頭腦榨乾 ㄏ。&lt;br&gt;
+機率真的是蠻扎實的科目，秉鈞教的很好觀念都講得好清楚，但東西太多ㄌ我的小腦袋裝不下（幸好可以帶大抄），而且他89.9直接幫我進位到A+好貼心。
+&lt;br&gt;
+&lt;br&gt;&lt;/p&gt;
+&lt;h2 id=&#34;選修&#34;&gt;選修&lt;/h2&gt;
+&lt;h3 id=&#34;計算機網路概論&#34;&gt;計算機網路概論&lt;/h3&gt;
+&lt;p&gt;授課教師：蕭旭峰&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: right&#34;&gt;HW1&lt;/th&gt;
+          &lt;th style=&#34;text-align: right&#34;&gt;HW2&lt;/th&gt;
+          &lt;th style=&#34;text-align: right&#34;&gt;HW3&lt;/th&gt;
+          &lt;th style=&#34;text-align: right&#34;&gt;HW4&lt;/th&gt;
+          &lt;th style=&#34;text-align: right&#34;&gt;Midterm 1&lt;/th&gt;
+          &lt;th style=&#34;text-align: right&#34;&gt;Midterm 2&lt;/th&gt;
+          &lt;th style=&#34;text-align: right&#34;&gt;Final&lt;/th&gt;
+          &lt;th style=&#34;text-align: right&#34;&gt;最終成績&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;105&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;100&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;96&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;100&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;76&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;85&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;100&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;A+&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;四次HW＋三次大考（三取二），HW都不難。期中期末要讀的細心一點，計網概就是有讀到就會沒讀到就不會的科目。我第一次考試讀得太隨便結果就考不好 嗚，還好是三取二。&lt;br&gt;
+我覺得聽他上課很容易分心，蠻多人會自己讀的，而且他的簡報也沒有很好懂，可以搭配別人的hackmd讀。
+&lt;br&gt;
+&lt;br&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>112下（大一下）修課心得</title>
       <link>http://localhost:1313/posts/nycu-courses/%E5%A4%A7%E4%B8%80%E4%B8%8B/</link>

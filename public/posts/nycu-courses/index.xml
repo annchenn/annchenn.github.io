@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>annchen</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on annchen</description>
+    <title>交大資工修課心得 on annchen</title>
+    <link>http://localhost:1313/posts/nycu-courses/</link>
+    <description>Recent content in 交大資工修課心得 on annchen</description>
     <image>
       <title>annchen</title>
       <url>http://localhost:1313/images/papermod-cover.png</url>
@@ -13,7 +13,7 @@
     <language>en</language>
     <copyright>PaperMod Contributors</copyright>
     <lastBuildDate>Thu, 16 Jan 2025 16:05:14 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/posts/nycu-courses/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>112下（大一下）修課心得</title>
       <link>http://localhost:1313/posts/nycu-courses/%E5%A4%A7%E4%B8%80%E4%B8%8B/</link>

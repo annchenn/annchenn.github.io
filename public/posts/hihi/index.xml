@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>交大資工修課心得 on annchen</title>
+    <link>http://localhost:1313/posts/hihi/</link>
+    <description>Recent content in 交大資工修課心得 on annchen</description>
+    <image>
+      <title>annchen</title>
+      <url>http://localhost:1313/images/papermod-cover.png</url>
+      <link>http://localhost:1313/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.140.2</generator>
+    <language>en</language>
+    <copyright>PaperMod Contributors</copyright>
+    <lastBuildDate>Thu, 16 Jan 2025 16:05:14 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/hihi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>大一下</title>
+      <link>http://localhost:1313/posts/hihi/%E5%A4%A7%E4%B8%80%E4%B8%8B/</link>
+      <pubDate>Thu, 16 Jan 2025 16:05:14 +0100</pubDate>
+      <guid>http://localhost:1313/posts/hihi/%E5%A4%A7%E4%B8%80%E4%B8%8B/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>112上（大一上）修課心得</title>
+      <link>http://localhost:1313/posts/hihi/%E5%A4%A7%E4%B8%80%E4%B8%8A/</link>
+      <pubDate>Fri, 10 Jan 2025 17:33:49 +0100</pubDate>
+      <guid>http://localhost:1313/posts/hihi/%E5%A4%A7%E4%B8%80%E4%B8%8A/</guid>
+      <description>&lt;h2 id=&#34;必修&#34;&gt;必修&lt;/h2&gt;
+&lt;h3 id=&#34;線性代數&#34;&gt;線性代數&lt;/h3&gt;
+&lt;p&gt;授課教師 : 易志偉&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: right&#34;&gt;0927 Exam&lt;/th&gt;
+          &lt;th style=&#34;text-align: right&#34;&gt;1011 Exam&lt;/th&gt;
+          &lt;th style=&#34;text-align: right&#34;&gt;1101 Exam&lt;/th&gt;
+          &lt;th style=&#34;text-align: right&#34;&gt;1122 Exam&lt;/th&gt;
+          &lt;th style=&#34;text-align: right&#34;&gt;1213 Exam&lt;/th&gt;
+          &lt;th style=&#34;text-align: right&#34;&gt;0103 Exam&lt;/th&gt;
+          &lt;th style=&#34;text-align: right&#34;&gt;Attendance&lt;/th&gt;
+          &lt;th style=&#34;text-align: right&#34;&gt;原始總成積&lt;/th&gt;
+          &lt;th style=&#34;text-align: right&#34;&gt;最終成績&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;21.00&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;48.00&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;44.00&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;50.00&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;43.00&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;35.00&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;10.00&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;89.20&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;A+&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;他是有六次小考取前五高分，每次小考滿分50，沒有期中期末，但我忘記他小考佔比是怎麼樣了，看起來應該是小考90% attendance 10%(不確定)。感覺線性代數就是前面蠻簡單可以吃高中老本後面就逐漸變很難（結果我第一次直接考爆哈哈:D）。主要應該是要刷爆課本習題，易志偉很讚。還有我忘記我是不是有寄信請他調分了，ㄜ看起來應該是有。
+&lt;br&gt;
+&lt;br&gt;&lt;/p&gt;
+&lt;h3 id=&#34;計算機概論與程式設計&#34;&gt;計算機概論與程式設計&lt;/h3&gt;
+&lt;p&gt;授課教師：黃敬群&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: right&#34;&gt;Exercise&lt;/th&gt;
+          &lt;th style=&#34;text-align: right&#34;&gt;Homework&lt;/th&gt;
+          &lt;th style=&#34;text-align: right&#34;&gt;Midterm&lt;/th&gt;
+          &lt;th style=&#34;text-align: right&#34;&gt;Final&lt;/th&gt;
+          &lt;th style=&#34;text-align: right&#34;&gt;Exam3&lt;/th&gt;
+          &lt;th style=&#34;text-align: right&#34;&gt;Roll call&lt;/th&gt;
+          &lt;th style=&#34;text-align: right&#34;&gt;Score&lt;/th&gt;
+          &lt;th style=&#34;text-align: right&#34;&gt;最終成績&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;100&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;80.17&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;51&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;80&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;56&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;5&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;79.334&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;A-&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;計概每個禮拜都要上機，上機完之後會有hw(我記得通常是2~3題嗎)，那時候一開始還沒有Online Judge，每次都被後測搞到＝＝，到很後面才創了OJ。有三次考試取兩次高的（有點忘ㄌ應該是），人很少的時候會隨機點名，點名加超多分沒去到會很心痛。ㄚ還有我只能說我真的太晚開始學習打程式了，高中的時候雖然有資訊課但對我來說沒什麼用（因為我都沒在上課哈），感覺自己學的很慢又好笨然後一直狂破房，但整學期下來還是學到挺多東西ㄉ。然後我看起來又有寄信請他調分了:D，最後成功得到A-哈哈（還是很低ㄏ）。不過黃敬群已經是相對比較甜的教授了，另一個計概教授陳添福感覺又更難拿高&amp;hellip;。
+&lt;br&gt;
+&lt;br&gt;&lt;/p&gt;
+&lt;h3 id=&#34;微積分一&#34;&gt;微積分（一）&lt;/h3&gt;
+&lt;p&gt;授課教師：王夏聲&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: right&#34;&gt;Midterm 1&lt;/th&gt;
+          &lt;th style=&#34;text-align: right&#34;&gt;Midterm 2&lt;/th&gt;
+          &lt;th style=&#34;text-align: right&#34;&gt;Midterm 3&lt;/th&gt;
+          &lt;th style=&#34;text-align: right&#34;&gt;大會考&lt;/th&gt;
+          &lt;th style=&#34;text-align: right&#34;&gt;學期成績&lt;/th&gt;
+          &lt;th style=&#34;text-align: right&#34;&gt;調分後成績&lt;/th&gt;
+          &lt;th style=&#34;text-align: right&#34;&gt;最終成績&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;81&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;85&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;75&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;82&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;80.84&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;90.84&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;A+&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;王夏聲的微積分就是三次大考＋大會考定生死，基本上可以不去上課，因為去了你也聽不懂他在講什麼，我那時候都是看莊重的影片拯救我的微積分。在考前會給三份考古，但不太會出一樣的，還是會有但是機率偏低。我記得那時候考試好像班平均都大概六七十，但最後王夏聲都會爆調，直接調十分超狠。（然後我就覺得爆調很讚放心繼續選微二，然後&amp;hellip;就&amp;hellip;Ｗ了）
+&lt;br&gt;
+&lt;br&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

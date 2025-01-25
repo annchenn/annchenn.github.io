@@ -111,6 +111,13 @@ url = "https://www.facebook.com/profile.php?id=100043407064926"
 
 [params.assets]
 disableHLJS = true
+favicon = "favicon/favicon.ico"
+favicon16x16 = "favicon/favicon-16x16.png"
+favicon32x32 = "favicon/favicon-32x32.png"
+apple_touch_icon = "favicon/apple-touch-icon.png"
+android-chrome-192x192 = "favicon/android-chrome-192x192.png"
+android-chrome-512x512 = "favicon/android-chrome-512x512.png"
+
 
 [markup.goldmark.renderer]
 unsafe = true

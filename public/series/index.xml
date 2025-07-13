@@ -9,7 +9,7 @@
       <url>http://localhost:1313/images/papermod-cover.png</url>
       <link>http://localhost:1313/images/papermod-cover.png</link>
     </image>
-    <generator>Hugo -- 0.140.2</generator>
+    <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>PaperMod Contributors</copyright>
     <atom:link href="http://localhost:1313/series/index.xml" rel="self" type="application/rss+xml" />
